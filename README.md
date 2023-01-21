@@ -1,4 +1,4 @@
-![Screenshot](budgets_by_year.jpg)
+![Screenshot](day-77-Seaborn_and_Linear_Regression.png)
 
 # Seaborn, built on the power of MatPlotLib, brings added charting capability to Python. 
 - 👋 Hi, I’m @WilliamSpanfelner
